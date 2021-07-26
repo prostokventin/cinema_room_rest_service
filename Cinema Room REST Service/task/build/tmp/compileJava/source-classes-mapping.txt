@@ -1,0 +1,8 @@
+cinema/Seat.java
+ cinema.Seat
+cinema/Cinema.java
+ cinema.Cinema
+cinema/Main.java
+ cinema.Main
+cinema/SeatController.java
+ cinema.SeatController
